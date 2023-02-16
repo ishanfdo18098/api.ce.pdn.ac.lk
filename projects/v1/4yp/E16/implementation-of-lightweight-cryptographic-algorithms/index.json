@@ -15,13 +15,13 @@
         "E/16/217": {
             "name": "Madushan K. H. G. H.",
             "email": "e16217@eng.pdn.ac.lk",
-            "website": "",
-            "github": "",
-            "linkedin": "",
-            "researchgate": "",
-            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E16/217",
-            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16217.jpg",
-            "profile_url": "https://people.ce.pdn.ac.lk/students/e16/217/"
+            "website": "#",
+            "github": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "api_url": "#",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+            "profile_url": "#"
         }
     },
     "supervisors": {
