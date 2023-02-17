@@ -12,30 +12,6 @@
     ],
     "author_info": [
         {
-            "type": "STUDENT",
-            "id": "E/14/065",
-            "name": "Mahendra Dassanayaka",
-            "email": "e14065@ce.pdn.ac.lk",
-            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14065.jpg",
-            "profile_url": "https://people.ce.pdn.ac.lk/students/e14/065/"
-        },
-        {
-            "type": "STUDENT",
-            "id": "E/14/028",
-            "name": "Tharuka Bandara",
-            "email": "e14028@ce.pdn.ac.lk",
-            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14028.jpg",
-            "profile_url": "https://people.ce.pdn.ac.lk/students/e14/028/"
-        },
-        {
-            "type": "STUDENT",
-            "id": "E/14/010",
-            "name": "Nadun Adikari",
-            "email": "e14010@ce.pdn.ac.lk",
-            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14010.jpg",
-            "profile_url": "https://people.ce.pdn.ac.lk/students/e14/010/"
-        },
-        {
             "type": "STAFF",
             "id": "isurunawinne",
             "name": "Dr. Isuru Nawinne",

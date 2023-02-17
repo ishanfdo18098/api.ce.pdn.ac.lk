@@ -12,22 +12,6 @@
     ],
     "author_info": [
         {
-            "type": "STUDENT",
-            "id": "E/12/009",
-            "name": "R.P.B.J. Alupotha",
-            "email": "jayamine.alupotha@gmail.com",
-            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e12/e12009.jpg",
-            "profile_url": "https://people.ce.pdn.ac.lk/students/e12/009/"
-        },
-        {
-            "type": "STUDENT",
-            "id": "E/12/269",
-            "name": "R.P.S. Prasadi",
-            "email": "sanduniprasadi06@gmail.com",
-            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e12/e12269.jpg",
-            "profile_url": "https://people.ce.pdn.ac.lk/students/e12/269/"
-        },
-        {
             "type": "STAFF",
             "id": "roshanr",
             "name": "Prof. Roshan G. Ragel",

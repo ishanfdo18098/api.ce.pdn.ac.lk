@@ -16,30 +16,6 @@
     ],
     "author_info": [
         {
-            "type": "STUDENT",
-            "id": "E/14/302",
-            "name": "Hiruna Samarakoon",
-            "email": "e14302@ce.pdn.ac.lk",
-            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14302.jpg",
-            "profile_url": "https://people.ce.pdn.ac.lk/students/e14/302/"
-        },
-        {
-            "type": "STUDENT",
-            "id": "E/14/262",
-            "name": "Sanoj Punchihewa",
-            "email": "e14262@ce.pdn.ac.lk",
-            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14262.jpg",
-            "profile_url": "https://people.ce.pdn.ac.lk/students/e14/262/"
-        },
-        {
-            "type": "STUDENT",
-            "id": "E/14/317",
-            "name": "Anjana Senanayake",
-            "email": "e14317@ce.pdn.ac.lk",
-            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14317.jpg",
-            "profile_url": "https://people.ce.pdn.ac.lk/students/e14/317/"
-        },
-        {
             "type": "STAFF",
             "id": "roshanr",
             "name": "Prof. Roshan G. Ragel",
