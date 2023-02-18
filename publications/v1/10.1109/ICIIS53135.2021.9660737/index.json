@@ -12,6 +12,22 @@
     ],
     "author_info": [
         {
+            "type": "STUDENT",
+            "id": "E/15/138",
+            "name": "Mohamed Irfan",
+            "email": "e15138@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15138.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e15/138/"
+        },
+        {
+            "type": "STUDENT",
+            "id": "E/15/021",
+            "name": "Mohammed Aslam",
+            "email": "e15021@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15021.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e15/021/"
+        },
+        {
             "type": "STAFF",
             "id": "ziyanm",
             "name": "Mr. Ziyan Maraikar",

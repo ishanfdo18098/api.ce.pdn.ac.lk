@@ -1,1 +1,951 @@
-{}
+{
+    "E/12/009": [
+        {
+            "title": "Implementing a proven-secure and cost-effective countermeasure against the compression ratio info-leak mass exploitation (CRIME) attack",
+            "venue": "2017 IEEE International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2017",
+            "authors": [
+                "Jayamine Alupotha",
+                "Sanduni Prasadi",
+                "Janaka Alawatugoda",
+                "Roshan Ragel",
+                "Mohamed Fawsan"
+            ],
+            "doi": "https://doi.org/10.1109/ICIINFS.2017.8300359",
+            "preprint": "https://www.researchgate.net/profile/Roshan-Ragel/publication/323352314_Implementing_a_proven-secure_and_cost-effective_countermeasure_against_the_compression_ratio_info-leak_mass_exploitation_CRIME_attack/links/61c959beb8305f7c4b0421bc/Implementing-a-proven-secure-and-cost-effective-countermeasure-against-the-compression-ratio-info-leak-mass-exploitation-CRIME-attack.pdf",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
+            ],
+            "funding": "",
+            "tags": [
+                "Bandwidth",
+                "Side-channel attacks",
+                "Dictionaries",
+                "Servers",
+                "Data compression"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2017.8300359/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2017.8300359/index.json"
+        }
+    ],
+    "E/12/269": [
+        {
+            "title": "Implementing a proven-secure and cost-effective countermeasure against the compression ratio info-leak mass exploitation (CRIME) attack",
+            "venue": "2017 IEEE International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2017",
+            "authors": [
+                "Jayamine Alupotha",
+                "Sanduni Prasadi",
+                "Janaka Alawatugoda",
+                "Roshan Ragel",
+                "Mohamed Fawsan"
+            ],
+            "doi": "https://doi.org/10.1109/ICIINFS.2017.8300359",
+            "preprint": "https://www.researchgate.net/profile/Roshan-Ragel/publication/323352314_Implementing_a_proven-secure_and_cost-effective_countermeasure_against_the_compression_ratio_info-leak_mass_exploitation_CRIME_attack/links/61c959beb8305f7c4b0421bc/Implementing-a-proven-secure-and-cost-effective-countermeasure-against-the-compression-ratio-info-leak-mass-exploitation-CRIME-attack.pdf",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
+            ],
+            "funding": "",
+            "tags": [
+                "Bandwidth",
+                "Side-channel attacks",
+                "Dictionaries",
+                "Servers",
+                "Data compression"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2017.8300359/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2017.8300359/index.json"
+        }
+    ],
+    "E/13/073": [
+        {
+            "title": "An ensemble learning approach for electrocardiogram sensor based human emotion recognition",
+            "venue": "MDPI Sensors",
+            "year": "2019",
+            "authors": [
+                "Theekshana Dissanayake",
+                "Yasitha Rajapaksha",
+                "Roshan Ragel",
+                "Isuru Nawinne"
+            ],
+            "doi": "https://doi.org/10.3390/s19204495",
+            "preprint": "#",
+            "pdf": "https://www.mdpi.com/1424-8220/19/20/4495/pdf?version=1571300841",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+            ],
+            "funding": "",
+            "tags": [
+                "bio-signal processing",
+                "wearable computing",
+                "ensemble learning",
+                "electrocardiogram",
+                "machine learning"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/s19204495/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/s19204495/index.json"
+        }
+    ],
+    "E/13/274": [
+        {
+            "title": "An ensemble learning approach for electrocardiogram sensor based human emotion recognition",
+            "venue": "MDPI Sensors",
+            "year": "2019",
+            "authors": [
+                "Theekshana Dissanayake",
+                "Yasitha Rajapaksha",
+                "Roshan Ragel",
+                "Isuru Nawinne"
+            ],
+            "doi": "https://doi.org/10.3390/s19204495",
+            "preprint": "#",
+            "pdf": "https://www.mdpi.com/1424-8220/19/20/4495/pdf?version=1571300841",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+            ],
+            "funding": "",
+            "tags": [
+                "bio-signal processing",
+                "wearable computing",
+                "ensemble learning",
+                "electrocardiogram",
+                "machine learning"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/s19204495/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/s19204495/index.json"
+        }
+    ],
+    "E/14/010": [
+        {
+            "title": "A Programming Framework for Robot Swarms",
+            "venue": "2020 Moratuwa Engineering Research Conference (MERCon)",
+            "year": "2020",
+            "authors": [
+                "Mahendra Dassanayaka",
+                "Tharuka Bandara",
+                "Nadun Adikari",
+                "Isuru Nawinne",
+                "Roshan Ragel"
+            ],
+            "doi": "https://doi.org/10.1109/MERCon50084.2020.9185206",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+            ],
+            "funding": "",
+            "tags": [
+                "Programming",
+                "Robot kinematics",
+                "Robot sensing systems",
+                "Hardware",
+                "Libraries",
+                "Debugging"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185206/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185206/index.json"
+        }
+    ],
+    "E/14/028": [
+        {
+            "title": "A Programming Framework for Robot Swarms",
+            "venue": "2020 Moratuwa Engineering Research Conference (MERCon)",
+            "year": "2020",
+            "authors": [
+                "Mahendra Dassanayaka",
+                "Tharuka Bandara",
+                "Nadun Adikari",
+                "Isuru Nawinne",
+                "Roshan Ragel"
+            ],
+            "doi": "https://doi.org/10.1109/MERCon50084.2020.9185206",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+            ],
+            "funding": "",
+            "tags": [
+                "Programming",
+                "Robot kinematics",
+                "Robot sensing systems",
+                "Hardware",
+                "Libraries",
+                "Debugging"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185206/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185206/index.json"
+        }
+    ],
+    "E/14/054": [
+        {
+            "title": "BAT\u00e2\u0080\u0094Block Analytics Tool Integrated with Blockchain Based IoT Platform",
+            "venue": "Electronics",
+            "year": "2020",
+            "authors": [
+                "Chathurangi Edussuriya",
+                "Kasun Vithanage",
+                "Namila Bandara",
+                "Janaka Alawatugoda",
+                "Manjula Sandirigama",
+                "Upul Jayasinghe",
+                "Nathan Shone",
+                "Gyu Myoung Lee"
+            ],
+            "doi": "https://doi.org/10.3390/electronics9091525",
+            "preprint": "#",
+            "pdf": "https://www.mdpi.com/2079-9292/9/9/1525/pdf?version=1600413580",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "IoT",
+                "blockchain",
+                "data analytics",
+                "smart contracts",
+                "access management"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/electronics9091525/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/electronics9091525/index.json"
+        },
+        {
+            "title": "An accurate mathematical model predicting number of dengue cases in tropics",
+            "venue": "PLoS Neglected Tropical Diseases",
+            "year": "2021",
+            "authors": [
+                "Chathurangi Edussuriya",
+                "Sampath Deegalla",
+                "Indika Gawarammana"
+            ],
+            "doi": "https://doi.org/10.1371/journal.pntd.0009756",
+            "preprint": "#",
+            "pdf": "https://journals.plos.org/plosntds/article/file?id=10.1371/journal.pntd.0009756&type=printable",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                ""
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1371/journal.pntd.0009756/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1371/journal.pntd.0009756/index.json"
+        }
+    ],
+    "E/14/065": [
+        {
+            "title": "A Programming Framework for Robot Swarms",
+            "venue": "2020 Moratuwa Engineering Research Conference (MERCon)",
+            "year": "2020",
+            "authors": [
+                "Mahendra Dassanayaka",
+                "Tharuka Bandara",
+                "Nadun Adikari",
+                "Isuru Nawinne",
+                "Roshan Ragel"
+            ],
+            "doi": "https://doi.org/10.1109/MERCon50084.2020.9185206",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+            ],
+            "funding": "",
+            "tags": [
+                "Programming",
+                "Robot kinematics",
+                "Robot sensing systems",
+                "Hardware",
+                "Libraries",
+                "Debugging"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185206/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185206/index.json"
+        }
+    ],
+    "E/14/158": [
+        {
+            "title": "A Retinex based GAN Pipeline to Utilize Paired and Unpaired Datasets for Enhancing Low Light Images",
+            "venue": "MERcon",
+            "year": "2020",
+            "authors": [
+                "Harshana Weligampola",
+                "Gihan Jayatilaka",
+                "Suren Sritharan",
+                "Roshan Goldaliyadda",
+                "Parakrama Ekanayeka",
+                "Roshan Ragel",
+                "Vijitha Herath"
+            ],
+            "doi": "https://doi.org/10.1109/MERCon50084.2020.9185373",
+            "preprint": "https://arxiv.org/pdf/2006.15304.pdf",
+            "pdf": "#",
+            "presentation": "https://www.cs.umd.edu/~gihan/projects/fyp/mercon-2020-presentation.pdf",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computer Vision"
+            ],
+            "funding": "",
+            "tags": [
+                "Low-light image enhancement",
+                "Retinex theory",
+                "Generative adversarial networks",
+                "Cycle consistency",
+                "Computer Vision"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185373/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185373/index.json"
+        },
+        {
+            "title": "Non-contact Infant Sleep Apnea Detection",
+            "venue": "IEEE International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2019",
+            "authors": [
+                "Gihan Jayatilaka",
+                "Harshana Weligampola",
+                "Suren Sritharan",
+                "Pankayaraj Pathmanathan",
+                "Roshan Ragel",
+                "Isuru Nawinne"
+            ],
+            "doi": "https://doi.org/10.1109/ICIIS47346.2019.9063269",
+            "preprint": "https://arxiv.org/pdf/1910.04725.pdf",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computational BioEngineering",
+                "Computer Vision"
+            ],
+            "funding": "",
+            "tags": [
+                "Sleep apnea",
+                "Video processing",
+                "Bio medical engineering",
+                "Pattern recognition"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS47346.2019.9063269/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS47346.2019.9063269/index.json"
+        },
+        {
+            "title": "Adaptive hierarchical clustering for hyperspectral image classification: Umbrella Clustering",
+            "venue": "Journal of Spectral Imaging",
+            "year": "2019",
+            "authors": [
+                "S.S.P. Vithana",
+                "E.M.M.B. Ekanayake",
+                "E.M.H.E.B. Ekanayake",
+                "A.R.M.A.N. Rathnayake",
+                "G.C. Jayatilaka",
+                "H.M.V.R. Herath",
+                "G.M.R.I. Godaliyadda",
+                "M.P.B. Ekanayake"
+            ],
+            "doi": "https://doi.org/10.1255/jsi.2019.a11",
+            "preprint": "#",
+            "pdf": "https://www.impopen.com/download.php?code=I08_a11",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "hyperspectral imagery",
+                "spectral clustering",
+                "hierarchical classification",
+                "umbrella clustering",
+                "feature extraction",
+                "remote sensing",
+                "linear discriminant analysis",
+                "self-organise",
+                "unsupervised"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1255/jsi.2019.a11/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1255/jsi.2019.a11/index.json"
+        },
+        {
+            "title": "GPU accelerated adaptive banded event alignment for rapid comparative nanopore signal analysis",
+            "venue": "BMC Bioinformatics",
+            "year": "2020",
+            "authors": [
+                "Hasindu Gamaarachchi",
+                "Chun Wai Lam",
+                "Gihan Jayatilaka",
+                "Hiruna Samarakoon",
+                "Jared T. Simpson",
+                "Martin A. Smith",
+                "Sri Parameswaran"
+            ],
+            "doi": "https://doi.org/10.1186/s12859-020-03697-x",
+            "preprint": "https://www.biorxiv.org/content/10.1101/756122v1.full.pdf",
+            "pdf": "https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-020-03697-x.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "https://github.com/hasindu2008/f5c",
+            "researchgroups": [
+                "Accelerated and High-Performance Computing (FPGA / GPU)"
+            ],
+            "funding": "Jared T. Simpson is supported by the Ontario Institute for Cancer Research through funds provided by the Government of Ontario and the Government of Canada through Genome Canada and Ontario Genomics (OGI-136).",
+            "tags": [
+                "Nanopore",
+                "Signal alignment",
+                "Event alignment",
+                "Methylation",
+                "GPU",
+                "GPU acceleration",
+                "Optimisation",
+                "SoC",
+                "Nanopolish",
+                "f5c"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1186/s12859-020-03697-x/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1186/s12859-020-03697-x/index.json"
+        },
+        {
+            "title": "DeepLight: Robust & Unobtrusive Real-time Screen-Camera Communication for Real-World Displays",
+            "venue": "2021 20th ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN)",
+            "year": "2021",
+            "authors": [
+                "Vu Tran",
+                "Gihan Jayatilaka",
+                "Ashwin Ashok",
+                "Archan Misra"
+            ],
+            "doi": "https://doi.org/10.1145/3412382.3458269",
+            "preprint": "https://arxiv.org/pdf/2105.05092",
+            "pdf": "#",
+            "presentation": "https://www.cs.umd.edu/~gihan/projects/deeplight/presentation.pdf",
+            "project": "#",
+            "codebase": "https://github.com/gihanjayatilaka/deeplight",
+            "researchgroups": [
+                "Computer Vision"
+            ],
+            "funding": "",
+            "tags": [
+                "Human-centered computing",
+                "Ubiquitous and mobile computing",
+                "Computer systems organization",
+                "Embedded and cyber-physical systems"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1145/3412382.3458269/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1145/3412382.3458269/index.json"
+        }
+    ],
+    "E/14/262": [
+        {
+            "title": "Genopo: a nanopore sequencing analysis toolkit for portable Android devices",
+            "venue": "Communications Biology",
+            "year": "2020",
+            "authors": [
+                "Hiruna Samarakoon",
+                "Sanoj Punchihewa",
+                "Anjana Senanayake",
+                "Jillian M. Hammond",
+                "Igor Stevanovski",
+                "James M. Ferguson",
+                "Roshan Ragel",
+                "Hasindu Gamaarachchi",
+                "Ira W. Deveson"
+            ],
+            "doi": "https://doi.org/10.1038/s42003-020-01270-z",
+            "preprint": "#",
+            "pdf": "https://www.nature.com/articles/s42003-020-01270-z.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computational BioEngineering"
+            ],
+            "funding": "MRFF grant APP1173594 (to I.W.D.), Cancer Institute NSW Early Career Fellowship 2018/ECF013 (to I.W.D.) and philanthropic support from The Kinghorn Foundation (to I.W.D. and H.G.).",
+            "tags": [
+                "Genopo",
+                "Nanopore Sequencing"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1038/s42003-020-01270-z/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1038/s42003-020-01270-z/index.json"
+        }
+    ],
+    "E/14/302": [
+        {
+            "title": "Genopo: a nanopore sequencing analysis toolkit for portable Android devices",
+            "venue": "Communications Biology",
+            "year": "2020",
+            "authors": [
+                "Hiruna Samarakoon",
+                "Sanoj Punchihewa",
+                "Anjana Senanayake",
+                "Jillian M. Hammond",
+                "Igor Stevanovski",
+                "James M. Ferguson",
+                "Roshan Ragel",
+                "Hasindu Gamaarachchi",
+                "Ira W. Deveson"
+            ],
+            "doi": "https://doi.org/10.1038/s42003-020-01270-z",
+            "preprint": "#",
+            "pdf": "https://www.nature.com/articles/s42003-020-01270-z.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computational BioEngineering"
+            ],
+            "funding": "MRFF grant APP1173594 (to I.W.D.), Cancer Institute NSW Early Career Fellowship 2018/ECF013 (to I.W.D.) and philanthropic support from The Kinghorn Foundation (to I.W.D. and H.G.).",
+            "tags": [
+                "Genopo",
+                "Nanopore Sequencing"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1038/s42003-020-01270-z/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1038/s42003-020-01270-z/index.json"
+        },
+        {
+            "title": "GPU accelerated adaptive banded event alignment for rapid comparative nanopore signal analysis",
+            "venue": "BMC Bioinformatics",
+            "year": "2020",
+            "authors": [
+                "Hasindu Gamaarachchi",
+                "Chun Wai Lam",
+                "Gihan Jayatilaka",
+                "Hiruna Samarakoon",
+                "Jared T. Simpson",
+                "Martin A. Smith",
+                "Sri Parameswaran"
+            ],
+            "doi": "https://doi.org/10.1186/s12859-020-03697-x",
+            "preprint": "https://www.biorxiv.org/content/10.1101/756122v1.full.pdf",
+            "pdf": "https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-020-03697-x.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "https://github.com/hasindu2008/f5c",
+            "researchgroups": [
+                "Accelerated and High-Performance Computing (FPGA / GPU)"
+            ],
+            "funding": "Jared T. Simpson is supported by the Ontario Institute for Cancer Research through funds provided by the Government of Ontario and the Government of Canada through Genome Canada and Ontario Genomics (OGI-136).",
+            "tags": [
+                "Nanopore",
+                "Signal alignment",
+                "Event alignment",
+                "Methylation",
+                "GPU",
+                "GPU acceleration",
+                "Optimisation",
+                "SoC",
+                "Nanopolish",
+                "f5c"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1186/s12859-020-03697-x/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1186/s12859-020-03697-x/index.json"
+        }
+    ],
+    "E/14/317": [
+        {
+            "title": "Genopo: a nanopore sequencing analysis toolkit for portable Android devices",
+            "venue": "Communications Biology",
+            "year": "2020",
+            "authors": [
+                "Hiruna Samarakoon",
+                "Sanoj Punchihewa",
+                "Anjana Senanayake",
+                "Jillian M. Hammond",
+                "Igor Stevanovski",
+                "James M. Ferguson",
+                "Roshan Ragel",
+                "Hasindu Gamaarachchi",
+                "Ira W. Deveson"
+            ],
+            "doi": "https://doi.org/10.1038/s42003-020-01270-z",
+            "preprint": "#",
+            "pdf": "https://www.nature.com/articles/s42003-020-01270-z.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computational BioEngineering"
+            ],
+            "funding": "MRFF grant APP1173594 (to I.W.D.), Cancer Institute NSW Early Career Fellowship 2018/ECF013 (to I.W.D.) and philanthropic support from The Kinghorn Foundation (to I.W.D. and H.G.).",
+            "tags": [
+                "Genopo",
+                "Nanopore Sequencing"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1038/s42003-020-01270-z/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1038/s42003-020-01270-z/index.json"
+        }
+    ],
+    "E/14/339": [
+        {
+            "title": "A Retinex based GAN Pipeline to Utilize Paired and Unpaired Datasets for Enhancing Low Light Images",
+            "venue": "MERcon",
+            "year": "2020",
+            "authors": [
+                "Harshana Weligampola",
+                "Gihan Jayatilaka",
+                "Suren Sritharan",
+                "Roshan Goldaliyadda",
+                "Parakrama Ekanayeka",
+                "Roshan Ragel",
+                "Vijitha Herath"
+            ],
+            "doi": "https://doi.org/10.1109/MERCon50084.2020.9185373",
+            "preprint": "https://arxiv.org/pdf/2006.15304.pdf",
+            "pdf": "#",
+            "presentation": "https://www.cs.umd.edu/~gihan/projects/fyp/mercon-2020-presentation.pdf",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computer Vision"
+            ],
+            "funding": "",
+            "tags": [
+                "Low-light image enhancement",
+                "Retinex theory",
+                "Generative adversarial networks",
+                "Cycle consistency",
+                "Computer Vision"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185373/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185373/index.json"
+        },
+        {
+            "title": "Non-contact Infant Sleep Apnea Detection",
+            "venue": "IEEE International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2019",
+            "authors": [
+                "Gihan Jayatilaka",
+                "Harshana Weligampola",
+                "Suren Sritharan",
+                "Pankayaraj Pathmanathan",
+                "Roshan Ragel",
+                "Isuru Nawinne"
+            ],
+            "doi": "https://doi.org/10.1109/ICIIS47346.2019.9063269",
+            "preprint": "https://arxiv.org/pdf/1910.04725.pdf",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computational BioEngineering",
+                "Computer Vision"
+            ],
+            "funding": "",
+            "tags": [
+                "Sleep apnea",
+                "Video processing",
+                "Bio medical engineering",
+                "Pattern recognition"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS47346.2019.9063269/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS47346.2019.9063269/index.json"
+        }
+    ],
+    "E/14/413": [
+        {
+            "title": "BAT\u00e2\u0080\u0094Block Analytics Tool Integrated with Blockchain Based IoT Platform",
+            "venue": "Electronics",
+            "year": "2020",
+            "authors": [
+                "Chathurangi Edussuriya",
+                "Kasun Vithanage",
+                "Namila Bandara",
+                "Janaka Alawatugoda",
+                "Manjula Sandirigama",
+                "Upul Jayasinghe",
+                "Nathan Shone",
+                "Gyu Myoung Lee"
+            ],
+            "doi": "https://doi.org/10.3390/electronics9091525",
+            "preprint": "#",
+            "pdf": "https://www.mdpi.com/2079-9292/9/9/1525/pdf?version=1600413580",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "IoT",
+                "blockchain",
+                "data analytics",
+                "smart contracts",
+                "access management"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/electronics9091525/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/electronics9091525/index.json"
+        }
+    ],
+    "E/15/021": [
+        {
+            "title": "Ensuring Academic Integrity of Online Examinations",
+            "venue": "2021 IEEE 16th International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2021",
+            "authors": [
+                "Mohamed Irfan",
+                "Mohammed Aslam",
+                "Ziyan Maraikar",
+                "Upul Jayasinghe",
+                "Mohamed Fawzan"
+            ],
+            "doi": "https://doi.org/10.1109/ICIIS53135.2021.9660737",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "https://projects.ce.pdn.ac.lk/4yp/e15/online-proctoring-system/",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Source separation",
+                "Webcams",
+                "Annotations",
+                "Time series analysis",
+                "Pose estimation",
+                "Streaming media",
+                "Feature extraction"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS53135.2021.9660737/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS53135.2021.9660737/index.json"
+        }
+    ],
+    "E/15/092": [
+        {
+            "title": "Chronic kidney disease prediction using machine learning methods",
+            "venue": "2020 Moratuwa Engineering Research Conference (MERCon) - IEEE",
+            "year": "2020",
+            "authors": [
+                "Imesh Udara Ekanayake; Damayanthi Herath"
+            ],
+            "doi": " https://doi.org/10.1109/MERCon50084.2020.9185249",
+            "preprint": "#",
+            "pdf": "https://www.researchgate.net/profile/Imesh-Ekanayake/publication/344319206_Chronic_Kidney_Disease_Prediction_Using_Machine_Learning_Methods/links/5f672571458515b7cf418d5b/Chronic-Kidney-Disease-Prediction-Using-Machine-Learning-Methods.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Machine Learning and Data Mining"
+            ],
+            "funding": "",
+            "tags": [
+                "Kidney",
+                "Diseases",
+                "Machine learning",
+                "Red blood cells",
+                "Hypertension"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/ 10.1109/MERCon50084.2020.9185249/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/ 10.1109/MERCon50084.2020.9185249/index.json"
+        }
+    ],
+    "E/15/138": [
+        {
+            "title": "Ensuring Academic Integrity of Online Examinations",
+            "venue": "2021 IEEE 16th International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2021",
+            "authors": [
+                "Mohamed Irfan",
+                "Mohammed Aslam",
+                "Ziyan Maraikar",
+                "Upul Jayasinghe",
+                "Mohamed Fawzan"
+            ],
+            "doi": "https://doi.org/10.1109/ICIIS53135.2021.9660737",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "https://projects.ce.pdn.ac.lk/4yp/e15/online-proctoring-system/",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Source separation",
+                "Webcams",
+                "Annotations",
+                "Time series analysis",
+                "Pose estimation",
+                "Streaming media",
+                "Feature extraction"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS53135.2021.9660737/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS53135.2021.9660737/index.json"
+        }
+    ],
+    "E/15/188": [
+        {
+            "title": "Using Near-Infrared Spectroscopy for Vein Visualization",
+            "venue": "2021 10th International Conference on Information and Automation for Sustainability (ICIAfS)",
+            "year": "2021",
+            "authors": [
+                "KTB Weerasinghe",
+                "SC Tennakoon",
+                "KNU Kularatne",
+                "I Nawinne",
+                "R Ragel",
+                "H Jayakody"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAfS52090.2021.9606126",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Visualization",
+                "Veins",
+                "Prototypes",
+                "Clinical trials",
+                "Skin",
+                "Real-time systems",
+                "Sustainable development"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAfS52090.2021.9606126/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAfS52090.2021.9606126/index.json"
+        }
+    ],
+    "E/15/271": [
+        {
+            "title": "Microservice Based Edge Computing Architecture for Internet of Things",
+            "venue": "2022 2nd International Conference on Advanced Research in Computing (ICARC)",
+            "year": "2022",
+            "authors": [
+                "Sewwandi Nisansala",
+                "Gayal Laksara Chandrasiri",
+                "Sonali Prasadika",
+                "Upul Jayasinghe"
+            ],
+            "doi": "https://doi.org/10.1109/ICARC54489.2022.9753930",
+            "preprint": "#",
+            "pdf": "https://ieeexplore.ieee.org/abstract/document/9753930",
+            "presentation": "#",
+            "project": "https://projects.ce.pdn.ac.lk/4yp/e15/Microservice-Based-Edge-Computing-Architecture/",
+            "codebase": "https://github.com/cepdnaclk/e15-4yp-Microservice-Based-Edge-Computing-Architecture",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Cloud computing",
+                "Architecture",
+                "Scalability",
+                "Microservice architectures",
+                "Computer architecture",
+                "Real-time systems",
+                "Internet of Things"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICARC54489.2022.9753930/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICARC54489.2022.9753930/index.json"
+        }
+    ],
+    "E/15/349": [
+        {
+            "title": "Using Near-Infrared Spectroscopy for Vein Visualization",
+            "venue": "2021 10th International Conference on Information and Automation for Sustainability (ICIAfS)",
+            "year": "2021",
+            "authors": [
+                "KTB Weerasinghe",
+                "SC Tennakoon",
+                "KNU Kularatne",
+                "I Nawinne",
+                "R Ragel",
+                "H Jayakody"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAfS52090.2021.9606126",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Visualization",
+                "Veins",
+                "Prototypes",
+                "Clinical trials",
+                "Skin",
+                "Real-time systems",
+                "Sustainable development"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAfS52090.2021.9606126/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAfS52090.2021.9606126/index.json"
+        }
+    ],
+    "E/15/383": [
+        {
+            "title": "Using Near-Infrared Spectroscopy for Vein Visualization",
+            "venue": "2021 10th International Conference on Information and Automation for Sustainability (ICIAfS)",
+            "year": "2021",
+            "authors": [
+                "KTB Weerasinghe",
+                "SC Tennakoon",
+                "KNU Kularatne",
+                "I Nawinne",
+                "R Ragel",
+                "H Jayakody"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAfS52090.2021.9606126",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Visualization",
+                "Veins",
+                "Prototypes",
+                "Clinical trials",
+                "Skin",
+                "Real-time systems",
+                "Sustainable development"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAfS52090.2021.9606126/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAfS52090.2021.9606126/index.json"
+        }
+    ]
+}
